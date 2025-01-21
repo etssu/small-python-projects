@@ -1,3 +1,4 @@
-# small quiz game
-desided to finally start working on different (mini)projects. 
-So here it is. 10 questions about capitals of different countries :)
+# Small Python Projects 
+Desided to finally start working on different (mini)projects. Was following Tech with Tim video.
+
+So here it is. Will update this file as often as I can and then will start working on some other stuff :)
