@@ -1,0 +1,10 @@
+"The <adjective> Adventure"
+
+One <adjective> day, my friend <name> and I went to the <place>. We brought a <adjective> <noun> and a <noun> for fun.
+
+When we got there, we saw a <adjective> <animal> <verb_ending_in_ing>. It was so <adjective>!
+
+After that, we ate some <plural_food> and felt <emotion>. "This is the most <adjective> day ever!" I said.
+
+Then we went home, feeling <emotion>.
+
